@@ -1,0 +1,19 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	//
+MAX	yc.c	/^#define MAX /;"	d	file:
+MAX	ys.c	/^#define MAX /;"	d	file:
+PORT	yc.c	/^#define PORT /;"	d	file:
+PORT	ys.c	/^#define PORT /;"	d	file:
+SA	yc.c	/^#define SA /;"	d	file:
+SA	ys.c	/^#define SA /;"	d	file:
+handleConn	yc.c	/^void handleConn( int sockfd ){$/;"	f	typeref:typename:void
+handleConn	ys.c	/^void handleConn( int connfd){	$/;"	f	typeref:typename:void
+main	yc.c	/^int main(){$/;"	f	typeref:typename:int
+main	ys.c	/^int main(){$/;"	f	typeref:typename:int
+yc	Makefile	/^yc:$/;"	t
+ys	Makefile	/^ys:$/;"	t
